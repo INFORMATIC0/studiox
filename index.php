@@ -43,7 +43,7 @@ echo '<!doctype html>
       <div class="row">
         <div class="col-sm-8 col-md-7 py-4">
           <h4 class="text-white">Información</h4>
-          <p class="text-muted">StudioX es un equipo de desarroladores de multipes platsformas temenos desarroladores de bots de telegram, páginas webs y apps </p>
+          <p class="text-muted">StudioX es un equipo de desarrolladores de multipes plataformas tenemos desarroladores de bots de telegram, páginas webs y apps </p>
         </div>
         <div class="col-sm-4 offset-md-1 py-4">
           <h4 class="text-white">Contacto</h4>
