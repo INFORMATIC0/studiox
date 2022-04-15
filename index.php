@@ -75,7 +75,7 @@ echo '<!doctype html>
         <h1 class="fw-light" style="color:white;">Servicio StudioX</h1>
         <p class="lead" style=" color:#ffffff; border:double; border-radius:50px;">Aqui encontrara la información más novedosa sobre nuestros servicios y sobre los métodos de descarga gratis en Cuba</p>
         <p>
-          <a href="#" class="btn btn-primary my-2">Canal de Telegram</a>
+          <a href="https://t.me/StudioX_cuban" class="btn btn-primary my-2">Canal de Telegram</a>
         </p>
       </div>
     </div>
