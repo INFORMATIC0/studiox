@@ -87,7 +87,7 @@ echo '<!doctype html>
   <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
         <div class="col">
           <div class="card shadow-sm">
-<img src="https://github.com/INFORMATIC0/studiox/blob/34e51dd56fdbeeacac6b29675a7e0ab316bf5e2e/img/desarrollo-de-apps.jpg" style="background white" alt="">
+<img src="./img/desarrollo-de-apps.jpg" style="background white" alt="">
 
             <div class="card-body">
               <p class="card-text">Desarrollo de app</p>
@@ -104,7 +104,7 @@ echo '<!doctype html>
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
         <div class="col">
           <div class="card shadow-sm">
-<img src="https://github.com/INFORMATIC0/studiox/blob/34e51dd56fdbeeacac6b29675a7e0ab316bf5e2e/img/Desarrollo-Web.png" style="background white" alt="">
+<img src="./img/Desarrollo-Web.png" style="background white" alt="">
 
             <div class="card-body">
               <p class="card-text">Desarrollo de Webs</p>
@@ -121,7 +121,7 @@ echo '<!doctype html>
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
         <div class="col">
           <div class="card shadow-sm">
-<img src="https://github.com/INFORMATIC0/studiox/blob/34e51dd56fdbeeacac6b29675a7e0ab316bf5e2e/img/applications-pour-pirater-un-reseau-depuis-un-android-750x420.jpg" style="background white" alt="">
+<img src="./img/applications-pour-pirater-un-reseau-depuis-un-android-750x420.jpg" style="background white" alt="">
 
             <div class="card-body">
               <p class="card-text">Hackear Apps</p>
