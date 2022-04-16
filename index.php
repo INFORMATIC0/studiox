@@ -139,7 +139,7 @@ echo '<!doctype html>
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
         <div class="col">
           <div class="card shadow-sm">
-<img src="./img/Bots_De_Telegram_2020.jpg" style="background white" alt="">
+<img src="./img/Bots_de_Telegram_2020.jpg" style="background white" alt="">
 
             <div class="card-body">
               <p class="card-text">Desarrollo de Bots de Telegram</p>
